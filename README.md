@@ -3,7 +3,7 @@
         <img src="https://media.giphy.com/media/YtkBhVpYTySsqiP04V/giphy.gif" width="500"/>
     </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pmatias&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pmatias&theme=blueberry_duo&hide_border=true)](https://github.com/pmatias)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmatias&show_icons=true&theme=dracula)](https://github.com/pmatias) -->
 

@@ -6,8 +6,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pmatias&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmatias&show_icons=true&theme=dracula)](https://github.com/pmatias) -->
-![Stats](https://github-readme-stats.vercel.app/api?username=pmatias&show_icons=true&theme=tokyonight&hide_border=1&count_private=1&hide_title=1)
 
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pmatias&show_icons=true&theme=tokyonight&hide_border=1&count_private=1&hide_title=1)
+ -->
 
 <img src="https://komarev.com/ghpvc/?username=pmatias&style=flat-square&color=blue" alt=""/>
     <div id="badges">

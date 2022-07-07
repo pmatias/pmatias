@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <div>
-        <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="200"/>
+        <img src="https://media.giphy.com/media/YtkBhVpYTySsqiP04V/giphy.gif" width="500"/>
     </div>
     <div id="badges">
         <a href="https://www.linkedin.com/in/lambdavector/">
